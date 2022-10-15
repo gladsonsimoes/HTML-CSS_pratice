@@ -404,11 +404,4 @@ para colorir uma parte da tabela é só usar bgcolor no tr ou no td
 <input type="submit"/> <!-- -->
 ~~~
 
-
-![image](https://user-images.githubusercontent.com/99969693/196010449-5bb70f8a-1ae8-4ebe-a139-a14710a0ea75.png)
-
-![image](https://user-images.githubusercontent.com/99969693/196010464-3623fe5b-7cbd-4e79-b7e4-a408e0c4fa13.png)
-	
-![image](https://user-images.githubusercontent.com/99969693/196010468-7637942c-3d1e-4c9a-b33d-394140331052.png)
-	
 	
