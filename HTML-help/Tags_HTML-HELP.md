@@ -118,26 +118,6 @@ Sem align no HTML:
 <justify></justify> <!-- texto justificado -->
 ~~~
 	
-</a>
-	
-## altura e largura (height - width)
-
-aumentar a largura:
-~~~html
-
-width="50%"
-
-width="50px"
-~~~
-aumentou a altura:
-~~~html
-
-height="50%"
-
-height="50px"
-
-~~~
-
 
 ## Fonte (mais comuns):
 ~~~htm
@@ -248,6 +228,24 @@ align="top" <!-- deixar o texto no topo da imagem -->
 align="middle" <!-- deixar o texto no meio da imagem -->
 align="bottom" <!-- deixar o texto em baixo da imagem (por padrão do html já fica neste formato) -->
 ~~~
+
+## altura e largura (height - width)
+
+aumentar a largura:
+~~~html
+
+width="50%"
+
+width="50px"
+~~~
+aumentou a altura:
+~~~html
+
+height="50%"
+
+height="50px"
+
+~~~	
 
 ## Comando ALT
 caso o navegador não consiga exibir a imagem, o atributo ALT permite vincular um texto explicativo a ela
