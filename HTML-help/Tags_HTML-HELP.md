@@ -388,10 +388,8 @@ para colorir uma parte da tabela é só usar bgcolor no tr ou no td
 ~~~	
 </a>	
 	
-![image](https://user-images.githubusercontent.com/99969693/193047878-262dc33e-6a36-4153-a78f-1317275623b0.png)
-![image](https://user-images.githubusercontent.com/99969693/193048536-a75cc1da-b975-49f3-afa8-54398f323ce3.png)
-		
-----
+<hr>
+	
 # Tags que não necessitam de fechamento:
 ## Quebra de linha no mesmo paragrafo (break)
 ~~~html
