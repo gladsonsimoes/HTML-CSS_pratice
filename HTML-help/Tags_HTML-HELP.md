@@ -229,7 +229,7 @@ align="middle" <!-- deixar o texto no meio da imagem -->
 align="bottom" <!-- deixar o texto em baixo da imagem (por padrão do html já fica neste formato) -->
 ~~~
 
-## altura e largura (height - width)
+## altura e largura da imagem (height - width)
 
 aumentar a largura:
 ~~~html
@@ -258,8 +258,16 @@ Quando o usuário coloca o mouse sobre a imagem, o texto alternativo também é 
 ~~~html
 <img ALT="Texto explicativo">
 ~~~
+
+## Imagem de Fundo de uma tabela
+~~~htm
+<table background="imagem.png">	
+~~~	
 	
 </a>
+		
+		
+		
 <hr>		
 		
 ## criar links no hipertexto
