@@ -6,9 +6,9 @@
        <p> 
 		 <h2> acesso rápido </h2>     
 	  <h3>  
-	     <a href="#NivelDeInicio"> nível de inicio </a> -
-	      <a href="#alinhartexto"> Alinhar Texto </a> -
-		  <a  href="#imagens"> Imagem </a>
+	     <a href="#NivelDeInicio"> nível de inicio </a> |
+	      <a href="#alinhartexto"> Alinhar Texto </a> |
+		  <a  href="#imagens"> Imagem </a> |
 		  <a href="#Tabela"> Tabelas </a>
 	    </h3>
       </p> 
