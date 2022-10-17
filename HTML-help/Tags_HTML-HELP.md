@@ -20,7 +20,7 @@
 
 <br>
 <div align="center">
-	<h2> Nível de Inicio </h3>	
+	<h2> Nível de Inicio </h2>	
 </div>
 		 
 Sintaxe de Comentários 
@@ -351,7 +351,9 @@ exemplo:
 </select>
 ~~~
 
-<a name="Tabela">	
+<a name="Tabela">
+	<h1 align="center"> Tabelas </h1>
+	
 ## criar uma tabela
 comando para criar uma tabela:	
 ~~~html
