@@ -51,12 +51,11 @@ A forma correta de implementar para iniciar não são dessas formas então <a hr
 <p></p>
 ~~~
 
-## Pular uma linha
+## Pular ou quebrar uma linha
 
 ~~~html
 </br>
 ~~~	
-
 
 ## Negrito
 ~~~htm 
@@ -389,12 +388,6 @@ para colorir uma parte da tabela é só usar bgcolor no tr ou no td
 </a>	
 	
 <hr>
-	
-# Tags que não necessitam de fechamento:
-## Quebra de linha no mesmo paragrafo (break)
-~~~html
-</br>
-~~~
 	
 ## definir o caractere brasileiro	
 ~~~html
