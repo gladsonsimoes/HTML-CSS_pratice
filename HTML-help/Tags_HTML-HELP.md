@@ -351,7 +351,8 @@ exemplo:
 ~~~
 
 <a name="Tabela">
-	<h1 align="center"> Tabelas </h1>
+	
+<h1 align="center"> Tabelas </h1>
 	
 ## criar uma tabela
 comando para criar uma tabela:	
@@ -365,7 +366,19 @@ comando para criar linha:
 comando para criar células:
 ~~~html
 <td>	
+~~~
+
+### atributos da tag TD
+~~~html
+<td align="">
 ~~~	
+#### VALIGN 
+para alinhar os dados de uma célula verticamente, este atributo é util quando a altura das células foi aumentada os atributos para o valign são:
+TOP = alinha os dados com a parte superior da célula
+BOTTOM = alinha os dados com a parte inferior	
+	
+<td valign="bottom">	
+	
 
 ## borda de tabela
 ~~~html
@@ -384,7 +397,22 @@ para colorir uma parte da tabela é só usar bgcolor no tr ou no td
 ## colocar imagem de fundo numa tabela	
 ~~~html
 <table background="imagem.png">
+~~~
+	
+## Espaço entre borda da tabela e as células	
+~~~html
+<table cellspacing="valor">	
 ~~~	
+
+## Espaço entre os dados e a borda de uma célula 
+~~~html
+<table cellpadding="valor">
+	
+	
+~~~
+sempre em pixels!
+	
+	
 </a>	
 	
 <hr>
