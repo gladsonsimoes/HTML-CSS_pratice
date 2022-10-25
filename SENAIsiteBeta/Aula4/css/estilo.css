@@ -1,4 +1,4 @@
-#logo{
+#logo{ /* Id Logo (id sempre começa com cerquilha(famoso jogo da velha)) */
     width: 200px;
     margin-right: 50px;
 }
@@ -26,7 +26,7 @@
     padding: 60px;
 }
 
-.titulo{
+.titulo{ /* Class titulo (class sempre comeca com ponto*/
     font-size: 50px;
     color: white;
     text-align: center;
