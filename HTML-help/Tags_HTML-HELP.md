@@ -9,7 +9,8 @@
 	     <a href="#NivelDeInicio"> nível de inicio </a> |
 	      <a href="#alinhartexto"> Alinhar Texto </a> |
 		  <a  href="#imagens"> Imagem </a> |
-		  <a href="#Tabela"> Tabelas </a>
+		  <a href="#Tabela"> Tabelas </a> |
+		  <a href="#Summario"> Summario </a>
 	    </h3>
       </p> 
 </div>
@@ -295,6 +296,9 @@ texto. E assim direcionando a link que está no href
 ~~~html
 <a href="mailto:emailexemple@exemple.com"> texto para direcionar o link para o email escrito </a>	
 ~~~
+	
+	
+<a name="Summario">	
 ### criar links de seção
 ~~~html
 	<a href="#nomedasecao"> texto explicativo ou nome da Seção </a> <!-- para direcionar a seção-->
@@ -326,6 +330,7 @@ exemplo:
 </BODY>
 </HTML>
 ~~~	
+</a>
 	     
 ### imagem com link
 ~~~html
