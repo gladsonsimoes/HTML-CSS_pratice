@@ -299,11 +299,14 @@ texto. E assim direcionando a link que está no href
 	
 	
 <a name="Summario">	
-### criar links de seção
+	
+### Sumario - criar links de seção
+	
 ~~~html
 	<a href="#nomedasecao"> texto explicativo ou nome da Seção </a> <!-- para direcionar a seção-->
 	<a name="nomedasecao"></a> <!-- para criar uma seção -->
 ~~~
+	
 exemplo:
 ~~~html
 	<HTML>
@@ -330,6 +333,7 @@ exemplo:
 </BODY>
 </HTML>
 ~~~	
+	     
 </a>
 	     
 ### imagem com link
