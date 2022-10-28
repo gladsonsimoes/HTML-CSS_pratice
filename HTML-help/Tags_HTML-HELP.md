@@ -284,11 +284,19 @@ a tag ANCHOR <a></a> (âncora) é utilizada para criar links no hypertexto. a si
 ~~~html
 <a href="URL"></a> <!-- href é um atributo usado para especificar a URL do documento linkado ou interligado -->
 ~~~
-	
-### abrir um arquivo em uma nova guia 
+
+### Atributo target	
+#### o atributo target é utilizado como o exemplo abaixo:
 ~~~html
 <a href="" target="_blank"></a>
 ~~~	
+tipos de atributos target:
+~~~html
+target="_blank" <!-- _blank: abre a página em uma nova janela/aba -->
+target="_self" <!--  _self: abre a página na mesma janela; -->
+target="_parent" <!-- _parent: abre a página na mesma janela do link -->
+target="_top" <!--  _top: cancela todos os demais frames e abre a nova página no mesmo navegador. -->
+~~~
 
 Questões de segurança envolvendo o target="_blank"
 Eu recomendo fortemente que você sempre adicione rel="noreferrer noopener" ao elemento de âncora sempre que você usar o atributo target (por questões de segurança): <a href="https://www.freecodecamp.org/portuguese/news/como-usar-o-html-para-abrir-um-link-em-uma-nova-aba/#:~:text=%C3%89%20f%C3%A1cil%20usar%20o%20HTML,voc%C3%AA%20quer%20fazer%20a%20liga%C3%A7%C3%A3o" target="_blank" rel="noopener noreferrer"> Veja mais sobre </a>
