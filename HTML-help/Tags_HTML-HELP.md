@@ -10,7 +10,8 @@
 	      <a href="#alinhartexto"> Alinhar Texto </a> |
 		  <a  href="#imagens"> Imagem </a> |
 		  <a href="#Tabela"> Tabelas </a> |
-		  <a href="#Summario"> Summario </a>
+		  <a href="#Summario"> Summario </a> |
+		  <a href="#criarLink"> Criar um link </a> |
 	    </h3>
       </p> 
 </div>
@@ -272,6 +273,7 @@ Quando o usuário coloca o mouse sobre a imagem, o texto alternativo também é 
 <hr>		
 
 <a name="criarLink">	
+	
 ## criar link e hipertexto
 
 ### tag anchor 
