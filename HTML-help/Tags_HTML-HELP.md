@@ -284,14 +284,13 @@ a tag ANCHOR <a></a> (âncora) é utilizada para criar links no hypertexto. a si
 	
 ### abrir um arquivo em uma nova guia 
 ~~~html
-<p><a href="https://www.freecodecamp.org/portuguese/news/como-usar-o-html-para-abrir-um-link-em-uma-nova-aba/#:~:text=%C3%89%20f%C3%A1cil%20usar%20o%20HTML,voc%C3%AA%20quer%20fazer%20a%20liga%C3%A7%C3%A3o" target="_blank"></a><p>
+<a href="" target="_blank"></a>
 ~~~	
-<a href="" target="_blank">blabla</a>
-URL é o endereço da página ou documento a ser linkado (ou seja o link)
+<a href="https://www.freecodecamp.org/portuguese/news/como-usar-o-html-para-abrir-um-link-em-uma-nova-aba/#:~:text=%C3%89%20f%C3%A1cil%20usar%20o%20HTML,voc%C3%AA%20quer%20fazer%20a%20liga%C3%A7%C3%A3o" target="_blank">blabla</a>
 
 ### texto com link
 ~~~html
-<a href="URL"> texto para direcionar o link </a>
+<a href="URL"> texto para direcionar o link </a> <!-- URL é o endereço da página ou documento a ser linkado (ou seja o link) -->
 ~~~
 para deixar um texto como um link , na parte acima tem escrito <b> texto para direcionar o link </b> é neste campo que você irá escrever o 
 texto. E assim direcionando a link que está no href
