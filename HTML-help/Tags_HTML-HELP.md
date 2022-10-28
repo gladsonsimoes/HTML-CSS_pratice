@@ -271,7 +271,7 @@ Quando o usuário coloca o mouse sobre a imagem, o texto alternativo também é 
 		
 <hr>		
 		
-## criar links no hipertexto
+## criar link e hipertexto
 
 ### tag anchor 
 ~~~html
@@ -281,11 +281,12 @@ a tag ANCHOR <a></a> (âncora) é utilizada para criar links no hypertexto. a si
 ~~~html
 <a href="URL"></a> <!-- href é um atributo usado para especificar a URL do documento linkado ou interligado -->
 ~~~
-abrir um arquivo em uma nova guia 
+	
+### abrir um arquivo em uma nova guia 
 ~~~html
-<p> Confira o <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>.</p>
+<p><a href="https://www.freecodecamp.org/portuguese/news/como-usar-o-html-para-abrir-um-link-em-uma-nova-aba/#:~:text=%C3%89%20f%C3%A1cil%20usar%20o%20HTML,voc%C3%AA%20quer%20fazer%20a%20liga%C3%A7%C3%A3o" target="_blank"></a><p>
 ~~~	
-
+<a href="" target="_blank">blabla</a>
 URL é o endereço da página ou documento a ser linkado (ou seja o link)
 
 ### texto com link
