@@ -306,7 +306,7 @@ Eu recomendo fortemente que você sempre adicione rel="noreferrer noopener" ao e
 	
 ### texto com link
 ~~~html
-<a href="URL"> texto para direcionar o link </a> <!-- URL é o endereço da página ou documento a ser linkado (ou seja o link) -->
+<a href=""> texto para direcionar o link </a> 
 ~~~
 para deixar um texto como um link , na parte acima tem escrito <b> texto para direcionar o link </b> é neste campo que você irá escrever o 
 texto. E assim direcionando a link que está no href
