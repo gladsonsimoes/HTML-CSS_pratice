@@ -270,7 +270,8 @@ Quando o usuário coloca o mouse sobre a imagem, o texto alternativo também é 
 		
 		
 <hr>		
-		
+
+<a name="criarLink">	
 ## criar link e hipertexto
 
 ### tag anchor 
@@ -288,6 +289,12 @@ a tag ANCHOR <a></a> (âncora) é utilizada para criar links no hypertexto. a si
 ~~~	
 <a href="https://www.freecodecamp.org/portuguese/news/como-usar-o-html-para-abrir-um-link-em-uma-nova-aba/#:~:text=%C3%89%20f%C3%A1cil%20usar%20o%20HTML,voc%C3%AA%20quer%20fazer%20a%20liga%C3%A7%C3%A3o" target="_blank">blabla</a>
 
+Questões de segurança envolvendo o target="_blank"
+Eu recomendo fortemente que você sempre adicione rel="noreferrer noopener" ao elemento de âncora sempre que você usar o atributo target:
+~~~html
+<a href="" target="_blank" rel="noopener noreferrer"></a>	
+~~~	
+	
 ### texto com link
 ~~~html
 <a href="URL"> texto para direcionar o link </a> <!-- URL é o endereço da página ou documento a ser linkado (ou seja o link) -->
@@ -299,7 +306,7 @@ texto. E assim direcionando a link que está no href
 ~~~html
 <a href="mailto:emailexemple@exemple.com"> texto para direcionar o link para o email escrito </a>	
 ~~~
-	
+</a>	
 	
 <a name="Summario">	
 	
