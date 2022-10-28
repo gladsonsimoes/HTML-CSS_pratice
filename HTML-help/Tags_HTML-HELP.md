@@ -279,9 +279,12 @@ Quando o usuário coloca o mouse sobre a imagem, o texto alternativo também é 
 ~~~
 a tag ANCHOR <a></a> (âncora) é utilizada para criar links no hypertexto. a sintaxe desta tag é exibida abaixo:
 ~~~html
-<a href="URL"></a> 
+<a href="URL"></a> <!-- href é um atributo usado para especificar a URL do documento linkado ou interligado -->
 ~~~
-href é um atributo usado para especificar a URL do documento linkado ou interligado
+abrir um arquivo em uma nova guia 
+~~~html
+<p> Confira o <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>.</p>
+~~~	
 
 URL é o endereço da página ou documento a ser linkado (ou seja o link)
 
