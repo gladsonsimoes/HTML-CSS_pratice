@@ -459,6 +459,9 @@ Ele especifica a URL do script que processará os dados do formulário.
 [exemplos](https://github.com/gladsonsimoes/HTML-CSS_pratice/blob/main/HTML-help/exemplesFormAction.md/)
 
 </a>
+<br>
+<hr>
+
 
 ## borda de tabela 
 ~~~html
