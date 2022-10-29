@@ -459,7 +459,8 @@ para colorir uma parte da tabela é só usar bgcolor no tr ou no td
 ## Espaço entre os dados e a borda de uma célula 
 ~~~html
 <table cellpadding="valor">
-	
+~~~
+</a>
 <hr>
 
 <a name="formularios">
