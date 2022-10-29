@@ -12,6 +12,7 @@
 		  <a href="#Tabela"> Tabelas </a> |
 		  <a href="#Summario"> Summario </a> |
 		  <a href="#criarLink"> Criar um link </a> |
+		  <a href="#formularios"> Formulário </a> 
 	    </h3>
       </p> 
 </div>
