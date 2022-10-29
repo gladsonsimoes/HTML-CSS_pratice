@@ -467,6 +467,7 @@ para colorir uma parte da tabela é só usar bgcolor no tr ou no td
 <hr>
 
 <a name="formularios">
+
 <div align="center">
 
 # Formulário:
@@ -493,6 +494,7 @@ Ele especifica a URL do script que processará os dados do formulário.
 [exemplos](https://github.com/gladsonsimoes/HTML-CSS_pratice/blob/main/HTML-help/exemplesFormAction.md/)
 
 </a>
+
 <br>
 <hr>
 
