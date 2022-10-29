@@ -379,18 +379,23 @@ exemplo:
 ~~~
 
 <a name="Tabela">
-	
-<h1 align="center"> Tabelas </h1>
+<DIV align="center">
+
+# TABELAS
+
+</DIV>
 	
 ## criar uma tabela
 comando para criar uma tabela:	
 ~~~html
 <table>
 ~~~
+
 comando para criar linha:
 ~~~html
 <tr>	
 ~~~
+
 comando para criar células:
 ~~~html
 <td>	
@@ -425,6 +430,7 @@ O valor para este atributo deve ser especificado em números.
 ~~~HTML
 <td colspan="número"></td>
 ~~~
+
 
 
 
