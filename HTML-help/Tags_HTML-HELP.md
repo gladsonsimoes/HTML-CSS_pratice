@@ -397,17 +397,24 @@ comando para criar células:
 ~~~
 
 ### atributos da tag TD
-~~~html
-<td align="">
-~~~	
+
+#### ALIGN
+além de alinhar a tabela em relação à página web, o atributo ALIGN alinha horizontalmente os dados uma célula. Seu valor pode ser especificado como: LEFT , RIGHT E CENTER.
+~~~HTML
+<td align="alinhamento">	
+~~~
+	
 #### VALIGN 
 para alinhar os dados de uma célula verticamente, este atributo é util quando a altura das células foi aumentada os atributos para o valign são:
 TOP = alinha os dados com a parte superior da célula
-BOTTOM = alinha os dados com a parte inferior	
+BOTTOM = alinha os dados com a parte inferior
+CENTER = alinha os dados centralizado
+~~~HTML
+<td valign="alinhamento">
+~~~
 	
-<td valign="bottom">	
-	
-
+#### COLSPAN
+O atributo COLSPAN é utilizado para mesclar uma célula	
 ## borda de tabela
 ~~~html
 <table border="n de pixels">
