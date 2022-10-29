@@ -528,9 +528,15 @@ Caso você tenha de utilizar um sript, verifique qual o melhor método para que 
 <br>
 </a>	
 
+## Objetos do formulário
 
+### Tag INPUT e seus atributos
+alguns atributos da tag INPUT
+
+#### TYPE
+Especifica o tipo de controle a ser criado. Se nada por especificado, o padão é "text".	
+##### exemplos do type:	
 	
-## para digitar	
 ~~~html
 <input type="text" /> <!-- escrever um texto -->
 <input type="number" /> <!-- definir um número -->
@@ -541,5 +547,8 @@ Caso você tenha de utilizar um sript, verifique qual o melhor método para que 
 <input type="checkbox"/> <!-- -->
 <input type="submit"/> <!-- -->
 ~~~
+	
+#### Value 
+Especifica o valor inicial do controle. É opcional	
 
 	
