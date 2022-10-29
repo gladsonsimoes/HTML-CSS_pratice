@@ -428,11 +428,30 @@ O atributo COLSPAN é utilizado para mesclar uma célula em mais de uma coluna. 
 O atributo ROWSPAN é utilizado para mesclar uma célula em mais de uma coluna. Este atributo é muito utilizado quando a tabela possui dados classificados por tipo, categoria etc. Sem ele, o texto ficaria alinhado apenas na primeira célula.
 O valor para este atributo deve ser especificado em números.
 ~~~HTML
-<td colspan="número"></td>
+<td rowspan="número"></td>
 ~~~
 
+<div align="center">
+# Criar um formulário: </div>
 
+Para que você possa criar um formulário em HTML, utilize a tag FORM.
+a sintaxe fica assim:
+~~~html
+<form atributos>
+  (conteúdo do formulário)
+</form>  
+~~~
 
+### atributos: 
+
+#### ACTION
+O primeiro atributo utilizado com a tag <form> é o action.
+Ele especifica a URL do script que processará os dados do formulário.
+~~~html
+<form action="URL"></form>
+~~~
+
+[exemplos](https://github.com/gladsonsimoes/HTML-CSS_pratice/blob/main/HTML-help/exemplesFormAction.md/)
 
 ## borda de tabela 
 ~~~html
