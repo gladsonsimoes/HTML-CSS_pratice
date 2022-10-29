@@ -462,6 +462,8 @@ para colorir uma parte da tabela é só usar bgcolor no tr ou no td
 ~~~
 </a>
 <hr>
+<br>
+<br>
 
 <a name="formularios">
 
@@ -489,6 +491,19 @@ Ele especifica a URL do script que processará os dados do formulário.
 ~~~
 
 [exemplos](https://github.com/gladsonsimoes/HTML-CSS_pratice/blob/main/HTML-help/exemplesFormAction.md/)
+
+#### METHOD
+O atributo METHOD especifica a maneira de envio dos dados do formulário para o servidor web, para que sejam processados.
+
+Existem dois métodos que podem ser utilizados: POST e GET
+
+##### Method POST
+Se o valor do atributo METHOD for definido como POST, o navegador enviará diretamente o fluxo de dados para o script CGI no servidor web. <br>
+é mais utilizado, porque permite a transmissão de uma maior quantidade de dados ao servidor web.
+
+~~~html
+<form action="" method="post">
+~~~
 
 </a>
 
