@@ -431,8 +431,12 @@ O valor para este atributo deve ser especificado em números.
 <td rowspan="número"></td>
 ~~~
 
+<a name="formularios">
 <div align="center">
-# Criar um formulário: </div>
+
+# Formulário:
+
+</div>
 
 Para que você possa criar um formulário em HTML, utilize a tag FORM.
 a sintaxe fica assim:
@@ -452,6 +456,8 @@ Ele especifica a URL do script que processará os dados do formulário.
 ~~~
 
 [exemplos](https://github.com/gladsonsimoes/HTML-CSS_pratice/blob/main/HTML-help/exemplesFormAction.md/)
+
+</a>
 
 ## borda de tabela 
 ~~~html
