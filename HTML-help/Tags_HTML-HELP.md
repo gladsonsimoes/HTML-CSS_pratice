@@ -401,7 +401,7 @@ comando para criar células:
 #### ALIGN
 além de alinhar a tabela em relação à página web, o atributo ALIGN alinha horizontalmente os dados uma célula. Seu valor pode ser especificado como: LEFT , RIGHT E CENTER.
 ~~~HTML
-<td align="alinhamento">	
+<td align="alinhamento"></td>	
 ~~~
 	
 #### VALIGN 
@@ -410,12 +410,25 @@ TOP = alinha os dados com a parte superior da célula
 BOTTOM = alinha os dados com a parte inferior
 CENTER = alinha os dados centralizado
 ~~~HTML
-<td valign="alinhamento">
+<td valign="alinhamento"></td>
 ~~~
 	
 #### COLSPAN
-O atributo COLSPAN é utilizado para mesclar uma célula	
-## borda de tabela
+O atributo COLSPAN é utilizado para mesclar uma célula em mais de uma coluna. Este atributo é muito utilizado quando a tabela possui um título ou conteúdo que, sem ele, ficaria alinhado apenas na primeira célula. O valor para este atributo deve ser especificado em números.
+~~~HTML
+<td colspan="número"></td>
+~~~
+
+#### ROWSPAN
+O atributo ROWSPAN é utilizado para mesclar uma célula em mais de uma coluna. Este atributo é muito utilizado quando a tabela possui dados classificados por tipo, categoria etc. Sem ele, o texto ficaria alinhado apenas na primeira célula.
+O valor para este atributo deve ser especificado em números.
+~~~HTML
+<td colspan="número"></td>
+~~~
+
+
+
+## borda de tabela 
 ~~~html
 <table border="n de pixels">
 ~~~
