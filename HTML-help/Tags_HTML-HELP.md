@@ -467,6 +467,16 @@ sempre em pixels!
 <br>
 <br>
 
+<hr>
+
+<h1 align="center"> avançado </h1>
+	
+## definir o caractere brasileiro	
+~~~html
+<meta charset="utf-8" />
+~~~
+
+
 <a name="formularios">
 
 <div align="center">
@@ -514,19 +524,11 @@ O valor GET é utilizado  para respostas únicas, como uma string de texto.
 ~~~html
 <form action="" method="get">
 ~~~
-
+Caso você tenha de utilizar um sript, verifique qual o melhor método para que as informações sejam enviadas a ele.
 <br>
 </a>	
 
 
-<hr>
-
-<h1 align="center"> avançado
-	
-## definir o caractere brasileiro	
-~~~html
-<meta charset="utf-8" />
-~~~
 	
 ## para digitar	
 ~~~html
