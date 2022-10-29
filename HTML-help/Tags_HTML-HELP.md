@@ -500,7 +500,7 @@ O atributo METHOD especifica a maneira de envio dos dados do formulário para o 
 Existem dois métodos que podem ser utilizados: POST e GET
 
 ##### Method POST
-Se o valor do atributo METHOD for definido como POST, o navegador enviará diretamente o fluxo de dados para o script CGI no servidor web. <br>
+Se o valor do atributo METHOD for definido como POST, o navegador enviará diretamente o fluxo de dados para o [script CGI](https://github.com/gladsonsimoes/HTML-CSS_pratice/blob/main/HTML-help/scriptCGI.md/) no servidor web. <br>
 é mais utilizado, porque permite a transmissão de uma maior quantidade de dados ao servidor web.
 
 ~~~html
@@ -516,10 +516,12 @@ O valor GET é utilizado  para respostas únicas, como uma string de texto.
 ~~~
 
 <br>
-<hr>
 </a>	
-	
+
+
 <hr>
+
+<h1 align="center"> avançado
 	
 ## definir o caractere brasileiro	
 ~~~html
