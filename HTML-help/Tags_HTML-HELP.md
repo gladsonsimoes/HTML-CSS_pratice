@@ -432,35 +432,7 @@ O valor para este atributo deve ser especificado em números.
 <td rowspan="número"></td>
 ~~~
 
-<a name="formularios">
-<div align="center">
 
-# Formulário:
-
-</div>
-
-Para que você possa criar um formulário em HTML, utilize a tag FORM.
-a sintaxe fica assim:
-~~~html
-<form atributos>
-  (conteúdo do formulário)
-</form>  
-~~~
-
-### atributos: 
-
-#### ACTION
-O primeiro atributo utilizado com a tag <form> é o action.
-Ele especifica a URL do script que processará os dados do formulário.
-~~~html
-<form action="URL"></form>
-~~~
-
-[exemplos](https://github.com/gladsonsimoes/HTML-CSS_pratice/blob/main/HTML-help/exemplesFormAction.md/)
-
-</a>
-<br>
-<hr>
 
 
 ## borda de tabela 
@@ -492,6 +464,38 @@ para colorir uma parte da tabela é só usar bgcolor no tr ou no td
 <table cellpadding="valor">
 	
 	
+<hr>
+
+<a name="formularios">
+<div align="center">
+
+# Formulário:
+
+</div>
+
+Para que você possa criar um formulário em HTML, utilize a tag FORM.
+a sintaxe fica assim:
+~~~html
+<form atributos>
+  (conteúdo do formulário)
+</form>  
+~~~
+
+### atributos: 
+
+#### ACTION
+O primeiro atributo utilizado com a tag <form> é o action.
+Ele especifica a URL do script que processará os dados do formulário.
+~~~html
+<form action="URL"></form>
+~~~
+
+[exemplos](https://github.com/gladsonsimoes/HTML-CSS_pratice/blob/main/HTML-help/exemplesFormAction.md/)
+
+</a>
+<br>
+<hr>
+
 ~~~
 sempre em pixels!
 	
