@@ -8,11 +8,11 @@
 	  <h3>  
 	     <a href="#NivelDeInicio"> nível de inicio </a> |
 	      <a href="#alinhartexto"> Alinhar Texto </a> |
-		  <a  href="#imagens"> Imagem </a> |
-		  <a href="#Tabela"> Tabelas </a> |
-		  <a href="#Summario"> Summario </a> |
-		  <a href="#criarLink"> Criar um link </a> |
-		  <a href="#formularios"> Formulário </a> 
+		  <a  href="#imagens"> Imagem (img) </a> |
+		  <a href="#Tabela"> Tabelas (tables) </a> |
+		  <a href="#Summario"> Summario  </a> |
+		  <a href="#criarLink"> Criar um link (a href) </a> |
+		  <a href="#formularios"> Formulário (form) </a> 
 	    </h3>
       </p> 
 </div>
