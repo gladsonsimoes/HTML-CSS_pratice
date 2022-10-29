@@ -1,0 +1,1 @@
+O sript Common Gateway Interface (CGI) é um padrão utilizado por servidores web para trasmitir o pedido de um usuário para um programa de aplicação e repassar os dados de resposta de volta ao usuário. Funciona como uma ponte entre o usuário e a aplicação web.
