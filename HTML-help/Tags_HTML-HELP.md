@@ -460,8 +460,10 @@ para colorir uma parte da tabela é só usar bgcolor no tr ou no td
 ~~~html
 <table cellpadding="valor">
 ~~~
-</a>
+sempre em pixels!
 <hr>
+</a>
+
 <br>
 <br>
 
@@ -505,15 +507,16 @@ Se o valor do atributo METHOD for definido como POST, o navegador enviará diret
 <form action="" method="post">
 ~~~
 
-</a>
+##### Method GET
+Por outro lado, se o atributo METHOD for definido como GET, o fluxo de dados será anexado à URL especificada no atributo ACTION  e enviado  ao servidor como uma única URL.
+
+O valor GET é utilizado  para respostas únicas, como uma string de texto.
+~~~html
+<form action="" method="get">
+~~~
 
 <br>
 <hr>
-
-~~~
-sempre em pixels!
-	
-	
 </a>	
 	
 <hr>
