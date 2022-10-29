@@ -432,9 +432,6 @@ O valor para este atributo deve ser especificado em números.
 <td rowspan="número"></td>
 ~~~
 
-
-
-
 ## borda de tabela 
 ~~~html
 <table border="n de pixels">
@@ -463,7 +460,6 @@ para colorir uma parte da tabela é só usar bgcolor no tr ou no td
 ~~~html
 <table cellpadding="valor">
 	
-</a>	
 <hr>
 
 <a name="formularios">
