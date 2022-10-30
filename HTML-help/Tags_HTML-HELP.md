@@ -546,7 +546,7 @@ Especifica o tipo de controle a ser criado. Se nada por especificado, o padão �
 <input type="text" /> <!-- Cria um campo de texto de uma linha -->
 <input type="checkbox" /> <!-- cria caixa de seleção -->
 <input type="reset"/> <!-- Cria um botão dde reset, que limpa todos os campos.
-<input type="password"/> <!-- Cria um campo de texto sem exibir o que está sendo digitado -->
+<input type="password" /> <!-- Cria um campo de texto sem exibir o que está sendo digitado -->
 <input type="hidden"/> <!-- Cria controle oculto --> 
 
 <input type="text" /> <!-- escrever um texto -->
