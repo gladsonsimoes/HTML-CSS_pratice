@@ -538,6 +538,17 @@ Especifica o tipo de controle a ser criado. Se nada por especificado, o padão �
 ##### exemplos do type:	
 	
 ~~~html
+<input type="image" /> <!-- Criar um botão de enviar baseado em uma imagem especifica, cuja URL deve ser fornecida  -->
+<input type="button" /> <!-- Cria um botão para ser pressionado. O atributo deve ter o nome do botão. -->
+<input type="radio" /> <!-- Cria um botão de escolha única -->
+<input type="file" /> <!-- Criar um controle para seleção de arquivo. O valor do atributo deve ser configurado como o nome do arquivo -->
+<input type="submit" /> <!-- Criar um botão de enviar -->
+<input type="text" /> <!-- Cria um campo de texto de uma linha -->
+<input type="checkbox" /> <!-- cria caixa de seleção -->
+<input type="reset"/> <!-- Cria um botão dde reset, que limpa todos os campos.
+<input type="password"/> <!-- Cria um campo de texto sem exibir o que está sendo digitado -->
+<input type="hidden"/> <!-- Cria controle oculto --> 
+
 <input type="text" /> <!-- escrever um texto -->
 <input type="number" /> <!-- definir um número -->
 <input type="password" /> <!-- escrever senha -->
