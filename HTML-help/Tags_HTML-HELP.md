@@ -548,7 +548,22 @@ Especifica o tipo de controle a ser criado. Se nada por especificado, o padão �
 <input type="submit"/> <!-- -->
 ~~~
 	
-#### Value 
-Especifica o valor inicial do controle. É opcional	
+#### VALUE 
+Especifica o valor inicial do controle. É opcional, com exceção dde quando o TYPE é "radio" ou "checkbox".
+
+#### NAME
+Nomeia cada campo do formulário para que o script possa manipular os dados.
+
+#### MAXLENGHT
+Quando o valor de TYPE for "text" ou "password", eles estabelecem o número máximo de caracteres do campo. O valor padão é ilimitado.
+
+#### SRC
+Quando o valor de TYPE for "image", este atributo especifica a localização da imagem usada para decorar o botão de enviar.
+
+#### CHECKED
+Quando o valor de TYPE for "image", este atributo especifica a localização da imagem usada para decorar o botão de enviar.
+
+#### SIZE 
+Especifica o tamanho inicial do controle. A largura é dada em pixels, com exceção de quando o valor for "text" ou "password". Nestes casos, o valor refere-se ao número de caracteres.
 
 	
