@@ -561,13 +561,22 @@ Especifica o tipo de controle a ser criado. Se nada por especificado, o padão �
 	
 #### VALUE 
 Especifica o valor inicial do controle. É opcional, com exceção dde quando o TYPE é "radio" ou "checkbox".
+~~~html
+<input value="" />	
+~~~	
 
 #### NAME
 Nomeia cada campo do formulário para que o script possa manipular os dados.
+~~~html
+<input name="" />	
+~~~	
 
 #### MAXLENGHT
 Quando o valor de TYPE for "text" ou "password", eles estabelecem o número máximo de caracteres do campo. O valor padão é ilimitado.
-
+~~~html
+<input maxlenght="" />	
+~~~	
+	
 #### SRC
 Quando o valor de TYPE for "image", este atributo especifica a localização da imagem usada para decorar o botão de enviar.
 
