@@ -545,7 +545,7 @@ Especifica o tipo de controle a ser criado. Se nada por especificado, o padão �
 <input type="submit" /> <!-- Criar um botão de enviar -->
 <input type="text" /> <!-- Cria um campo de texto de uma linha -->
 <input type="checkbox" /> <!-- cria caixa de seleção -->
-<input type="reset"/> <!-- Cria um botão dde reset, que limpa todos os campos.
+<input type="reset"/> <!-- Cria um botão dde reset, que limpa todos os campos. -->
 <input type="password" /> <!-- Cria um campo de texto sem exibir o que está sendo digitado -->
 <input type="hidden"/> <!-- Cria controle oculto --> 
 
@@ -558,25 +558,17 @@ Especifica o tipo de controle a ser criado. Se nada por especificado, o padão �
 <input type="checkbox"/> <!-- -->
 <input type="submit"/> <!-- -->
 ~~~
-	
+
 #### VALUE 
-Especifica o valor inicial do controle. É opcional, com exceção dde quando o TYPE é "radio" ou "checkbox".
-~~~html
-<input value="" />	
-~~~	
+Especifica o valor inicial do controle. É opcional, com exceção de quando o TYPE é "radio" ou "checkbox". Por padrão as caixas de texto ficam vazias, se colocar o atributo value irá preencher o vazio da caixa de texto.
+
 
 #### NAME
 Nomeia cada campo do formulário para que o script possa manipular os dados.
-~~~html
-<input name="" />	
-~~~	
 
 #### MAXLENGHT
 Quando o valor de TYPE for "text" ou "password", eles estabelecem o número máximo de caracteres do campo. O valor padão é ilimitado.
-~~~html
-<input maxlenght="" />	
-~~~	
-	
+
 #### SRC
 Quando o valor de TYPE for "image", este atributo especifica a localização da imagem usada para decorar o botão de enviar.
 
@@ -586,7 +578,7 @@ Quando o valor de TYPE for "image", este atributo especifica a localização da 
 #### SIZE 
 Especifica o tamanho inicial do controle. A largura é dada em pixels, com exceção de quando o valor for "text" ou "password". Nestes casos, o valor refere-se ao número de caracteres.
 
-##### SINTAXE 
+#### Exemplo de um campo de texto
 ~~~html
 <input type="text" name="Nome" SIZE="20" maxlenght="50">
 ~~~
@@ -594,6 +586,8 @@ Type : valor que especifica o tipo de entrada como texto. <br>
 Name: Nome da variável que armazena os dados <br>
 Size: Tamanho do campo, em número de caracteres. <br>
 maxlenght: Número máximo de caracteres que podem ser inseridos pelo usuário. <br>
+
+
 
 
 
