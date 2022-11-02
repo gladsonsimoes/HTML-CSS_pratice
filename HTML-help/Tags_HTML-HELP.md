@@ -586,4 +586,22 @@ Quando o valor de TYPE for "image", este atributo especifica a localização da 
 #### SIZE 
 Especifica o tamanho inicial do controle. A largura é dada em pixels, com exceção de quando o valor for "text" ou "password". Nestes casos, o valor refere-se ao número de caracteres.
 
+##### SINTAXE 
+~~~html
+<input type="text" name="Nome" SIZE="20" maxlenght="50">
+~~~
+Type : valor que especifica o tipo de entrada como texto. <br>
+Name: Nome da variável que armazena os dados <br>
+Size: Tamanho do campo, em número de caracteres. <br>
+maxlenght: Número máximo de caracteres que podem ser inseridos pelo usuário. <br>
+
+
+
+
+
+
+
+
+
+
 	
