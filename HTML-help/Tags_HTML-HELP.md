@@ -659,8 +659,53 @@ option: Cria cada item da lista.
 selected: Indica o valor padrão da lista.
 value: Valor que será retornado.
 
+### Lista de opções:
 
+a lista de opções serve para controlar o número de opções exibidas pois é possível definir sua altura com o atributo Size.
 
+~~~html
+<HTML >
+   <HEAD>
+      <TITLE>Lista de opções</TITLE>
+   </HEAD>
+
+<BODY>
+    <H3>EXEMPLO DE LISTA DE OPÇÕES</H3>
+    <H4>Escolha a cidade que deseja conhecer</H4>
+    <FORM>
+        <SELECT NAME="cidades" SIZE="4">
+            <OPTION>Londres 
+            <OPTION>Paris
+            <OPTION>Roma 
+            <OPTION>Madri
+        </SELECT>
+    </FORM>
+</BODY>
+
+</HTML >
+~~~
+
+### Menu
+
+~~~html
+<HTML >
+   <HEAD>
+      <TITLE>Menu de opções</TITLE>
+   </HEAD>
+
+<BODY>
+    <H3>EXEMPLO DE MENU</H3>
+    <H4>Escolha a cidade que deseja conhecer</H4>
+    <FORM>
+        <SELECT NAME="cidades">
+           <OPTION>Londres 
+           <OPTION>Paris
+           <OPTION>Roma 
+           <OPTION>Madri
+        </SELECT>
+    </FORM>
+</BODY>
+~~~
 
 
 
