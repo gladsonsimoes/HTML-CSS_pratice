@@ -588,10 +588,47 @@ Size: Tamanho do campo, em número de caracteres. <br>
 maxlenght: Número máximo de caracteres que podem ser inseridos pelo usuário. <br>
 
 
+#### Exemplo de botões de escolha única
 
+~~~html
+<input 	type="radio" name="variável">
+~~~
+para exibir uma das opções selecionadas como padrão, usamos o atributo CHECKED na tag <input>
 
+~~~html
+<input type="radio" name="variavel" checked>valor
+~~~
 
+### Botões de múltipla escolha
+	
+~~~html	
+<input type="checkbox" name="variavel">valor	
+~~~
+para escolha única usamo o checked igual do botão radio!
+	
+	
+### Inserindo uma área de texto
+	
+~~~html
+	<p>Descrição <textarea name="nome" rows="numero" cols="numero" name="variavel"> </textarea></p>
+~~~
+Os atributos ROWS que especifica o número de linhas (altura) , e COLS que especifica o número de colunas (largura) da área de texto.	
+	
+### Botões de enviar e limpar (SUBMIT e RESET)	
+	
+~~~html
+<INPUT TYPE="submit" VALUE="Enviar">
+~~~	
+Em um formulário, o botão SUBMIT envia ao servidor web a informação digitada pelo usuário para ser processada pelo script CGI correspondente.
+	
+~~~html
+<INPUT TYPE="reset" VALUE="Limpar">
+~~~		  
+O botão RESET limpa as entradas que foram feitas em um formulário, ou seja, apaga as informações inseridas em todos os campos.
 
+### Inserindo Campo Oculto
+	
+Por exemplo, no formulário de pedidos on-line, podemos 	
 
 
 
