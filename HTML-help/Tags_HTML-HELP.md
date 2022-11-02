@@ -628,7 +628,36 @@ O botão RESET limpa as entradas que foram feitas em um formulário, ou seja, ap
 
 ### Inserindo Campo Oculto
 	
-Por exemplo, no formulário de pedidos on-line, podemos 	
+Por exemplo, no formulário de pedidos on-line, podemos utilizar um campo oculto para enviar uma palavra-chave, que valide o número do CPF do cliente. <br>
+
+Para adicionar este campo, incluimos o valor HIDDEN  no atributo TYPE. <br>
+
+sintaxe:
+~~~html
+<input type="hidden" name="variavel" value="valor">
+~~~
+exemplo:
+~~~html
+<INPUT TYPE=hidden NAME="cpf" VALUE="verdadeiro">
+~~~
+
+### Lista de opções ou menu
+
+Se você precisar apresentar várias opções para o usuário e não tiver muito espaço para isso, você pode utilizar uma lista de opções ou um menu. <br> <br>
+
+Ambas as opções são criadas pela mesma tag SELECT <br>
+
+sintaxe:
+~~~html
+<select multiple name="nome da lista">
+   <option selected value="valor1">Valor
+</select>
+~~~
+multiple: exibe a lista sempre aberta.
+name: Atributo que identifica a lista.
+option: Cria cada item da lista.
+selected: Indica o valor padrão da lista.
+value: Valor que será retornado.
 
 
 
