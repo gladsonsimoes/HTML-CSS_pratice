@@ -707,6 +707,11 @@ a lista de opções serve para controlar o número de opções exibidas pois é 
 </BODY>
 ~~~
 
+### Criando e formatando frames
+
+Frames são como moldes onde as páginas web são obrigadas a se encaixar
+
+
 
 
 	
