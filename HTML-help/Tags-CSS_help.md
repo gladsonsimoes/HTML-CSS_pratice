@@ -4,4 +4,7 @@
   
   </div>
 
-Comentar no CSS: /* */
+Comentar no CSS: 
+~~~html
+/* */
+~~~
