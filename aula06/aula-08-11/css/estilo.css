@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Trebuchet MS',
+        'Lucida Sans Unicode',
+        'Lucida Grande',
+        'Lucida Sans',
+        Arial,
+        sans-serif;
+    background: #fff url(../img/fundo.png) repeat-x;
+}
+
+#container {
+    width: 750px;
+    margin: 0 auto;
+}
+
+#topo{
+    height: 150px; 
+    background: url(../img/detalhe-topo.png) no-repeat right top;
+    padding: 25px; 
+    border: 1px ;
+}
+
+.logo{
+    width: 152px;
+    height: 66px;
+    background: url(../img/logo.png) no-repeat center;
+    text-indent: -3000px; /* text-indent é pra mudar o lugar da LOGO */
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#topo ul{
+    margin-top: 30px;
+    background: rgb(156, 23, 23);
+    float: left;
+}
+
+
+#topo ul li {
+    float: left;
+}
+
+#topo ul a{
+    font-size: 18px;
+    display: block;
+    padding: 5px 10px;
+    line-height: 25px;
+    color: white;
+    background: url(../img/divisor.png) no-repeat left center;
+}
+
+#topo ul .primeiro a {
+    background: none;
+}
+
+#topo ul a:hover{
+    color: black
+}
+
+body.home #navegacao a#home,
+body.brasil #navegacao a#brasil,
+body.internacional #navegacao a#internacional,
+body.fotos #navegacao a#fotos {
+    color: #fff;
+    background: rgb(204, 113, 113);
+    cursor: text;
+
+}
+
+#conteudo{
+    background: green;
+    margin-top: 60px;
+}
+
+#principal{
+    width: 270px;
+    float: left;
+    background: yellow;
+}
+
+#secundario{
+    width: 270px;
+    float: left;
+    background: blue;
+
+}
+
+#lateral{
+    width: 180px;
+    float: left;
+    background: pink;
+}
+
+#container-rodape{
+    background: rgb(22, 11, 173);
+    padding: 20px;
+    clear: both;
+}
+
+
+#rodape{
+    width: 750px;
+    margin: 0 auto;
+    color: #fff;
+}
