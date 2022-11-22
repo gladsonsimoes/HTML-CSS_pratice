@@ -5,6 +5,13 @@
   </div>
 
 Comentar no CSS: 
-~~~html
+~~~css
 /* */
 ~~~
+
+tag para deixar o css dentro do html:
+
+~~~html
+<style></style>
+~~~
+
