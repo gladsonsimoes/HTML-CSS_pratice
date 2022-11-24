@@ -21,3 +21,7 @@ tag e atributo para relacionar com arquivo de css , coloque a pasta e o arquivo 
 <link rel="stylesheet" href="css/estilo.css">
 ~~~
 
+
+<br><br>Links para estudos+
+
+https://backefront.com.br/barra-rolagem-div/
