@@ -9,11 +9,18 @@ Comentar no CSS:
 /* */
 ~~~
 
+
+## Inline – diretamente no HTML
+
+## Incorporado – por meio da tag <style>, no topo da página, dentro da tag <head>
 tag para deixar o css dentro do html:
 
 ~~~html
 <style></style>
 ~~~
+
+
+## Linkado ou externo – por meio da tag <link>, de modo a vincular o HTML a uma folha de estilos externa. 
 
 tag e atributo do html para relacionar com arquivo de css , coloque a pasta e o arquivo css ("como no exemplo abaixo")
 
