@@ -9,3 +9,5 @@ Isso significa que o nome index é obrigatório?<br><br>
 Não. Caso você queira que o nome de seu arquivo seja paginainicial.html, 
 só terá de alterar a configuração de modo que o domínio aponte para o endereço da página inicial.<br>
 Nesse caso, a página inicial será paginainicial.html<br>
+
+Em outras palavras, você pode escolher outros nomes para sua página inicial. No entanto, aconselhamos que use sempre a forma padronizada (index.html), por ser um padrão e um bom hábito.
