@@ -612,8 +612,9 @@ maxlenght: Número máximo de caracteres que podem ser inseridos pelo usuário. 
 ### label
 Pinserimos uma tag label para cada elemento, a fim de facilitar a identificação de cada um. <br>
 ~~~html
-	<label></label>	
+<label></label>	
 ~~~	
+<a href="https://github.com/gladsonsimoes/HTML-CSS_pratice/blob/main/HTML-help/Html_arquives/usandoLabel.html"> exemplo usando label </a>	
 
 #### Exemplo de botões de escolha única
 
