@@ -46,7 +46,10 @@ Sintaxe de Comentários
 ~~~
 
 A forma correta de implementar para iniciar não são dessas formas então <a href="https://github.com/gladsonsimoes/Tags-HTML/blob/main/modelobasico.html"> veja o modelo inicial </a>	
+
+<a href=""> sobre o docytype </a>
 </a>
+
 
 
 ## Paragrafo 
