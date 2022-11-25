@@ -93,12 +93,7 @@ Tag <sup> – Coloca o texto como sobrescrito (letras pequenas acima de um texto
 
 ## Como Criar um HyperLink
 ~~~htm
-<a href=""><button>Button para direcionar o link</button></a>
-
-<!-- 
- O <a href""></a> serve para colocar o link ,
- <button></button> é para direcionar o link do a href 
--->
+<a href=""></a>
 ~~~
 	
 <a name="alinhartexto">
@@ -615,6 +610,28 @@ Pinserimos uma tag label para cada elemento, a fim de facilitar a identificaçã
 <label></label>	
 ~~~	
 <a href="https://github.com/gladsonsimoes/HTML-CSS_pratice/blob/main/HTML-help/Html_arquives/usandoLabel.html"> exemplo usando label </a>	
+
+## botão button
+
+~~~html
+<button type="submit">Cadastrar</a>
+~~~
+
+Type submit
+
+O type submit envia os dados do formulário à página-destino do atributo actions.
+
+
+Type reset
+
+O type reset redefine todos os campos para padrão, assim que acionado.
+
+
+Type button
+
+Uma tag button com o type button não realiza nenhuma ação, a não ser que seja acionada via codificação Javascript.
+
+
 
 #### Exemplo de botões de escolha única
 
