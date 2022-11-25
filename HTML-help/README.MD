@@ -579,6 +579,7 @@ Especifica o tipo de controle a ser criado. Se nada por especificado, o padão �
 <input type="submit"/> <!-- -->
 ~~~
 
+		
 #### VALUE 
 Especifica o valor inicial do controle. É opcional, com exceção de quando o TYPE é "radio" ou "checkbox". Por padrão as caixas de texto ficam vazias, se colocar o atributo value irá preencher o vazio da caixa de texto.
 
@@ -602,11 +603,17 @@ Especifica o tamanho inicial do controle. A largura é dada em pixels, com exce�
 ~~~html
 <input type="text" name="Nome" SIZE="20" maxlenght="50">
 ~~~
+	
 Type : valor que especifica o tipo de entrada como texto. <br>
 Name: Nome da variável que armazena os dados <br>
 Size: Tamanho do campo, em número de caracteres. <br>
 maxlenght: Número máximo de caracteres que podem ser inseridos pelo usuário. <br>
 
+### label
+Pinserimos uma tag label para cada elemento, a fim de facilitar a identificação de cada um. <br>
+~~~html
+	<label></label>	
+~~~	
 
 #### Exemplo de botões de escolha única
 
