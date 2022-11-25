@@ -47,7 +47,7 @@ Sintaxe de Comentários
 
 A forma correta de implementar para iniciar não são dessas formas então <a href="https://github.com/gladsonsimoes/HTML-CSS_pratice/blob/main/HTML-help/Html_arquives/modeloInicial.html"> veja o modelo inicial </a>	
 
-<a href="https://github.com/gladsonsimoes/HTML-CSS_pratice/blob/main/HTML-help/doctype.md"> sobre o docytype </a>
+<a href="https://github.com/gladsonsimoes/HTML-CSS_pratice/blob/main/HTML-help/doctype.md"> sobre o doctype </a>
 </a>
 
 
