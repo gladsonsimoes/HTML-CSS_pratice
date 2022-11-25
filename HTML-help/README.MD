@@ -686,7 +686,7 @@ exemplo:
 <INPUT TYPE=hidden NAME="cpf" VALUE="verdadeiro">
 ~~~
 
-### Lista de opções ou menu
+### Lista de opções ou menu , SELECT
 
 Se você precisar apresentar várias opções para o usuário e não tiver muito espaço para isso, você pode utilizar uma lista de opções ou um menu. <br> <br>
 
