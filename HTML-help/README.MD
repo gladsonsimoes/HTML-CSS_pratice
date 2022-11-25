@@ -422,7 +422,7 @@ comando para criar linha:
 <tr>	
 ~~~
 
-comando para criar células:
+comando para criar colunas:
 ~~~html
 <td>	
 ~~~
