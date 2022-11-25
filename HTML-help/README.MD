@@ -64,18 +64,32 @@ A forma correta de implementar para iniciar não são dessas formas então <a hr
 ~~~	
 
 ## Negrito
-~~~htm 
+
+~~~html
 <b>
 ~~~
+
+## Negrito importante
+~~~html
+<strong></strong>
+~~~
+
 ##  Italico 
 ~~~htm 
-<i>
+<i></i>
+~~~
+ou 
+~~~html
+<em></em>
 ~~~
 
 ## Underline (texto marcado) 
 ~~~htm 
 <u>
 ~~~
+
+Tag <sub> – O texto dentro da tag <sub> se torna subscrito (letras pequenas abaixo de um texto)
+Tag <sup> – Coloca o texto como sobrescrito (letras pequenas acima de um texto).
 
 ## Como Criar um HyperLink
 ~~~htm
