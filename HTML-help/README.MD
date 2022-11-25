@@ -633,7 +633,7 @@ Uma tag button com o type button não realiza nenhuma ação, a não ser que sej
 
 
 
-#### Exemplo de botões de escolha única
+## botões de escolha única
 
 ~~~html
 <input 	type="radio" name="variável">
@@ -644,7 +644,7 @@ para exibir uma das opções selecionadas como padrão, usamos o atributo CHECKE
 <input type="radio" name="variavel" checked>valor
 ~~~
 
-### Botões de múltipla escolha
+## Botões de múltipla escolha
 	
 ~~~html	
 <input type="checkbox" name="variavel">valor	
