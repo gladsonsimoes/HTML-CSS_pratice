@@ -176,7 +176,7 @@ Sem align no HTML:
 <PRE></PRE>
 ~~~
 
-## Listas Ordenada/Númerica
+## Lista Ordenada
 
 ~~~html
 <ol></ol> <!-- abrir e fechar a lista ordenada -->
@@ -203,6 +203,14 @@ também é possível criar combinações de listas em uma página web. Essa comb
 		</UL>
 	</OL>
 ~~~
+		
+## Lista de definição		
+~~~html		
+<dl> – cria a lista.
+<dt> – define o termo.
+<dd> – adiciona a definição.		
+~~~	
+	
 ## Personalizar Listas
 O atributo TYPE pode especificar o tipo de marcador em uma lista não ordenada, ou tipo de número em uma lista ordenada.
 
