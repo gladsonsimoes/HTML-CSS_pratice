@@ -1,7 +1,7 @@
 <div align="center">
      <h1> <p> Tags de HTML <p> </h1>
-       <h4>  este documento tem o intuito de lembrar o porque das tags </h4>
-	 <h3> lembrando: algumas tag <b> abrem <> </b> e precisam de <b> fechamento < / > </b> </h3> 
+       <h4>  este documento tem algumas tags principais do html  </h4>
+	 
 <hr>
        <p> 
 		 <h2> acesso rápido </h2>     
