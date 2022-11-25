@@ -714,7 +714,21 @@ a lista de opções serve para controlar o número de opções exibidas pois é 
 
 Frames são como moldes onde as páginas web são obrigadas a se encaixar
 
+## MetaTags
 
+As metatags são tags que fornecem dados aos navegadores e motores de busca sobre o documento HTML em que estão inseridas.
 
+As metatags não aparecem em sua tela, pois são informações específicas para os navegadores.
 
+Exemplo:
+
+Descrição da página, palavras-chaves, autor do documento.
+
+~~~html 
+<meta name="description" content="Descrição da página">
+<meta name="keywords" content="Palavras-chaves">
+<meta name="author" content="nome do Autor">
+~~~
 	
+As tags meta ou metatags são tags que fornecem dados aos navegadores e aos motores de busca sobre o documento HTML em que estão inseridas. Tais tags não aparecem em sua tela, pois são informações específicas para os navegadores
+
