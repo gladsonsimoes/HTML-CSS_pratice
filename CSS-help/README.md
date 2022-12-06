@@ -65,7 +65,9 @@ Na folha de estilo, a propriedade class vem precedida por um ponto (.).
 Uma coisa muito importante que devemos saber sobre o ID é que ele deve ser único nos elementos
 
 
+## header
 
+![Captura de Tela (18)](https://user-images.githubusercontent.com/99969693/206040803-dbbf88c6-d451-4d6d-955f-b9b911bdb0ca.png)
 
 
 
