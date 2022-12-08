@@ -28,6 +28,7 @@ tag e atributo do html para relacionar com arquivo de css , coloque a pasta e o 
 ~~~HTML
 <link rel="stylesheet" href="css/estilo.css">
 ~~~
+ou desse outro modo:
 ~~~html
 <link rel="stylesheet" type="text/css"  href="estilo.css">
 ~~~
