@@ -30,10 +30,15 @@ exemplo:
      <!--  CSS link -->
     <link rel="stylesheet" type="text/css" href="css/normalize.css">
     <!-- CSS Incorporado -->
-    <style></style>
+    <style>
+        h1 {
+        color: black;
+        }
+    </style>
     
 </head>
 <body>
+    <h1>Subtitulo</h1>
     <!-- CSS inline -->
     <p style="color: red; font-size: 30px"> Texto aqui </p>
 </body>
