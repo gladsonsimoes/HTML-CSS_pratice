@@ -18,6 +18,7 @@ Observe que a parte em azul claro é a margin do elemento. Essa parte ajuda a se
 A parte em verde claro é o padding do elemento. Observe que essa parte auxilia a ajustar o espaçamento interno de um elemento. 
  
 ### Unidade de medidas
+Para aplicar margin e padding, precisamos saber quais as unidades de medidas disponíveis no CSS. Clique nos números para conhecê-las. 
  
 | px | pt | em | % | cm | mm |
 |--- |--- | ---| --- | --- | --- |
