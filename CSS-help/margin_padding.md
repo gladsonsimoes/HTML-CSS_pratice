@@ -16,6 +16,12 @@ Observe que a parte em azul claro é a margin do elemento. Essa parte ajuda a se
  <br><br>
  
 A parte em verde claro é o padding do elemento. Observe que essa parte auxilia a ajustar o espaçamento interno de um elemento. 
+ 
+### Unidade de medidas
+ 
+| px | pt | em | % | cm | mm |
+|--- |--- | ---| --- | --- | --- |
+| pixel | ponto | equivale aproximadamente, 16 px | porcentagem | centimentro | milímetro |
 
 
 
