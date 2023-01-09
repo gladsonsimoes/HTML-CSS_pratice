@@ -1,16 +1,9 @@
-<div align="center">
-  
-  # TAGS CSS
-  
-  </div>
+<h1 align="center"> TAGS CSS </h1>
 
 Comentar no CSS: 
 ~~~css
 /* */
 ~~~
-
-No CSS tem tres tipos de usar <a href="comoAdicionarCSS.md"> clique e veja </a>
-
 
 ## Seletores
 
