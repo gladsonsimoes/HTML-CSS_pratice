@@ -25,27 +25,15 @@ exemplo:
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Museu Nacional</title>
+    <title>Titulo do Site</title>
+    
+     <!--  CSS link -->
     <link rel="stylesheet" type="text/css" href="css/normalize.css">
+    <!-- CSS Incorporado -->
+    <style></style>
 </head>
 <body>
-    <div id="container">
-        <header>
-            <div id="logo">
-                <h1><a href="#">Museu Nacional</a></h1>
-            </div>
-            <nav>
-                <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Esposições</a></li>
-                    <li><a href="#">Pesquisa</a></li>
-                    <li><a href="#">Arcevo</a></li>
-                    <li><a href="#">Vídeos</a></li>
-                    <li><a href="#">Fotos</a></li>
-                    <li><a href="#">Contato</a></li>
-                </ul>
-            </nav>
-        </header>  
-    </div>
+    <!-- CSS inline -->
+    <p style="color: red; font-size: 30px"> Texto aqui </p>
 </body>
 </html>
