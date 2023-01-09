@@ -60,13 +60,13 @@ A forma correta de implementar para iniciar não são dessas formas então <a hr
 ## Pular ou quebrar uma linha
 
 ~~~html
-</br>
+<br>
 ~~~	
 
 ## Negrito
 
 ~~~html
-<b>
+<b></b>
 ~~~
 
 ## Negrito importante
@@ -85,7 +85,7 @@ ou
 
 ## Underline (texto marcado) 
 ~~~htm 
-<u>
+<u></u>
 ~~~
 
 Tag <sub> – O texto dentro da tag <sub> se torna subscrito (letras pequenas abaixo de um texto)
