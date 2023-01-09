@@ -9,7 +9,7 @@ Comentar no CSS:
 /* */
 ~~~
 
-No CSS tem tres tipos de usar <a href=""> clique e veja </a>
+No CSS tem tres tipos de usar <a href="comoAdicionarCSS.md"> clique e veja </a>
 
 
 ## Seletores
