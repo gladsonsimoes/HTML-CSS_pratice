@@ -19,6 +19,12 @@ seletor {propriedade: valor;}
 
 <hr>
 
+### Seletor Universal
+representa todos os elementos
+~~~css
+*{margin: 0; padding: 0;}
+~~~
+
 ### Seletor Class:
 
 #### class no html:
@@ -53,6 +59,8 @@ Uma coisa muito importante que devemos saber sobre o ID é que ele deve ser úni
      propriedade: valor;
 }
 ~~~
+
+
 
 ## Position 
 
