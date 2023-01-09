@@ -9,29 +9,8 @@ Comentar no CSS:
 /* */
 ~~~
 
+No CSS tem tres tipos de usar <a href=""> clique e veja </a>
 
-## Inline – diretamente no HTML
-~~~html
-<p style="color: red; font-size: 30px"> Texto aqui </p>
-~~~
-
-## Incorporado – por meio da tag style, no topo da página, dentro da tag head
-
-~~~html
-<style></style>
-~~~
-
-## Linkado ou externo – por meio da tag <link>, de modo a vincular o HTML a uma folha de estilos externa. 
-
-tag e atributo do html para relacionar com arquivo de css , coloque a pasta e o arquivo css ("como no exemplo abaixo")
-
-~~~HTML
-<link rel="stylesheet" href="css/estilo.css">
-~~~
-ou desse outro modo:
-~~~html
-<link rel="stylesheet" type="text/css"  href="estilo.css">
-~~~
 
 ## Seletores
 
