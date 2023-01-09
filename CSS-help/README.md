@@ -17,6 +17,8 @@ A estrutura para regras do CSS é:
 seletor {propriedade: valor;}
 ~~~
 
+<hr>
+
 ### Seletor Class:
 
 #### class no html:
@@ -33,6 +35,8 @@ Na folha de estilo, a propriedade class vem precedida por um ponto (.).
    propriedade: valor;
 }
 ~~~
+
+<hr>
 
 ### Seletor ID
 Uma coisa muito importante que devemos saber sobre o ID é que ele deve ser único em cada elemento , exemplo:
