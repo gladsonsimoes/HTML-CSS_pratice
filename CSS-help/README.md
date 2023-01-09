@@ -7,7 +7,7 @@
 /* */
 ~~~
 
-### Seletores
+## Seletores
 
 Os seletores são a declaração que o CSS utiliza para identificar os elementos do HTML. Por meio dos seletores, podemos aplicar a formatação em quase qualquer parte de uma página web.
 
@@ -35,9 +35,15 @@ Na folha de estilo, a propriedade class vem precedida por um ponto (.).
 ~~~
 
 ### Seletor ID
+Uma coisa muito importante que devemos saber sobre o ID é que ele deve ser único em cada elemento , exemplo:
 
-Uma coisa muito importante que devemos saber sobre o ID é que ele deve ser único em cada elemento
+#### id no html:
 
+~~~html
+<p id="nome"> Gladson </p>
+~~~
+
+#### id no CSS:
 ~~~css
 #nomeDoID {
      propriedade: valor;
