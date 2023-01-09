@@ -54,13 +54,24 @@ Uma coisa muito importante que devemos saber sobre o ID é que ele deve ser úni
 }
 ~~~
 
-## header
+## Position 
 
-![Captura de Tela (18)](https://user-images.githubusercontent.com/99969693/206040803-dbbf88c6-d451-4d6d-955f-b9b911bdb0ca.png)
+O CSS possui uma propriedade chamada position
+
+A propriedade position precisa de um ponto inicial para calcular a coordenada e posicionar o elemento na tela.
+
+Além disso, a propriedade position possui três valores possíveis. Clique nos valores para conhecê-los.
+
+| Fixed | Relative | Absolute |
+|--- |--- |--- |
+| O valor fixed fixa o elemento nas coordenadas que atribuirmos. Mesmo com a rolagem da tela, o elemento permanece FIXO na posição definida.| O ponto inicial para o cálculo de elementos com position definida como relative é o canto superior esquerdo do próprio elemento. | Diferente do relative, o valor absolute tem como ponto inicial o elemento em que ele está inserido – seu pai. |
 
 
 
 
+
+
+<hr>
 <br><br>Links para estudos+
 
 https://backefront.com.br/barra-rolagem-div/
