@@ -31,6 +31,7 @@ exemplo:
     <link rel="stylesheet" type="text/css" href="css/normalize.css">
     <!-- CSS Incorporado -->
     <style></style>
+    
 </head>
 <body>
     <!-- CSS inline -->
