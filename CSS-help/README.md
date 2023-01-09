@@ -1,32 +1,31 @@
-<h1 align="center"> TAGS CSS </h1>
+<div align="center">
+   <h1> TAGS CSS </h1>
+<p> caso não saiba como usar o CSS, veja as tres formas de usar <a href="comoAdicionarCSS.md"> clique aqui e veja </a> </p> </div>
 
-Comentar no CSS: 
+### Comentário no CSS: 
 ~~~css
 /* */
 ~~~
 
-## Seletores
+### Seletores
 
 Os seletores são a declaração que o CSS utiliza para identificar os elementos do HTML. Por meio dos seletores, podemos aplicar a formatação em quase qualquer parte de uma página web.
 
 A estrutura para regras do CSS é:
 
+~~~css
 seletor {propriedade: valor;}
+~~~
 
-### class:
+### Seletor Class:
 
 #### class no html:
+
 ~~~html
-<p class='nome da classe'>Seu texto </p>
-~~~
-Também podemos adicionar a mesma class em vários elementos:
-~~~html
-<p class='primeira da classe'>Primeiro parágrafo</p>
-<p class='primeira da classe'>Segundo parágrafo</p>
-<p class='primeira da classe'>Terceiro parágrafo</p>
+<p class='nome da classe'>Seu texto </p> //podemos adicionar a mesma class em vários elementos!
 ~~~
 
-### class no css:
+#### class no css:
 Na folha de estilo, a propriedade class vem precedida por um ponto (.).
 
 ~~~css
@@ -35,8 +34,15 @@ Na folha de estilo, a propriedade class vem precedida por um ponto (.).
 }
 ~~~
 
-Uma coisa muito importante que devemos saber sobre o ID é que ele deve ser único nos elementos
+### Seletor ID
 
+Uma coisa muito importante que devemos saber sobre o ID é que ele deve ser único em cada elemento
+
+~~~css
+#nomeDoID {
+     propriedade: valor;
+}
+~~~
 
 ## header
 
